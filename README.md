@@ -43,6 +43,10 @@ Fungsi kontrak:
 | `get_recipes` | Mengembalikan daftar semua resep |
 | `delete_recipe` | Menghapus resep berdasarkan `id` |
 
+## Deployed Contract
+Link: https://lab.stellar.org/r/testnet/contract/CCKG4Z6ZYYT4QTPV4JQ3MLQVK4CU73ZL5FG3QQI27J3FKHIX2TNHVX2Z
+Smart Contract: CCKG4Z6ZYYT4QTPV4JQ3MLQVK4CU73ZL5FG3QQI27J3FKHIX2TNHVX2Z
+
 ---
 
 **Stellar Recipes DApp** — menyimpan resep di blockchain
